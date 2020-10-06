@@ -1,2 +1,1 @@
-# Virtual-pet-1--c34
-https://cheshta-kabra.github.io/Virtual-Pet-1/
+# Virtual-pet-2-c36
